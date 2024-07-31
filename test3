@@ -1,0 +1,7 @@
+# This is a Python script to print the name "Puneet"
+
+# Define the name
+name = "Puneet"
+
+# Print the name
+print(name)
